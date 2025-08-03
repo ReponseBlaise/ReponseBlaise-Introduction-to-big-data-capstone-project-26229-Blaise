@@ -6,10 +6,6 @@ Can we analyze global trends and forecast the spread of COVID-19 using WHO daily
 
 ---
 
-## 📁 Project Structure
-
-
----
 
 ## 🔧 Tools & Technologies
 
