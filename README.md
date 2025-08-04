@@ -1,3 +1,8 @@
+# CAPSTONE PROJECT
+### NAMES: MUSHIMIYUMUKIZA BLAISE
+### ID:26229
+### Course: Introduction to Big Data
+### LECTURER: MANIRAGUHA ERIC<br><br>
 # 🌍 Global COVID-19 Analytics using WHO Data
 
 ## 🧠 Problem Statement
@@ -23,7 +28,9 @@ Can we analyze global trends and forecast the spread of COVID-19 using WHO daily
 - **Modeling**:
   - K-Means clustering by country based on case/death severity
   - Prophet time-series forecasting of new global cases
-- Visuals saved in `visuals/`
+![Visual](boxplot_cases_deaths.png)
+![Visual](global_daily_trends.png)
+![Visual](top_10_countries_cases.png)
 
 ---
 
