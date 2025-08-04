@@ -45,7 +45,7 @@ Can we analyze global trends and forecast the spread of COVID-19 using WHO daily
 
 ## 📌 Dataset
 
-- **Source**: [WHO COVID-19 Data](https://www.who.int/data)
+- **Source**: [WHO COVID-19 Data]([https://www.who.int/data](https://srhdpeuwpubsa.blob.core.windows.net/whdh/COVID/WHO-COVID-19-global-daily-data.csv))
 - **Format**: Structured CSV
 - **Rows**: 482,640 | **Columns**: 8
 - Includes country, region, new/cumulative cases and deaths
